@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo "
-<-- IndoSec -->
+<-- Ganteng -->
 ####################
 #   Whatsapp Code  # By ./C3W3KBerB4T4n9
 #     Exploiter    # ceweberbatang59@gmail.com
